@@ -109,9 +109,9 @@ global.bear = 'VBkM7rbU'
 
 /*============== WATERMARK ==============*/
 global.gcname = '𝑮𝒓𝒐𝒖𝒑 𝑩𝒐𝒕𝒛 𝑳𝒚𝒏𝒏🍭'//nama group kalian
-global.wm = 'By Lynn-Md' //Main Watermark
-global.wm2 = 'Lynn-Md'
-global.wm3 = 'Botz Wa | By Lyn-Md'
+global.wm = 'Lynn-Md🍭' //Main Watermark
+global.wm2 = 'Lynn-Md🍭'
+global.wm3 = 'Botz Wa | By Lyn-Md🍭'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `Lynn-Md | ʙʏ ${global.nameown}`
@@ -135,7 +135,7 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya Lynn-Md Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh Owner saya, Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/a362be8d9bd1d968da275.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'LannZMod🔖'
+global.nameowner = 'LynnZMod🔖'
 global.umurowner = '15'
 global.asalowner = 'Malaysia, Sarawak'
 global.nomorowner = 'wa.me/60189830350'
@@ -388,7 +388,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'By BotzWa'
-global.stickauth = `LynnXzy`
+global.stickauth = `LynnXzy🍭`
 
 global.multiplier = 38 // The higher, The harder levelup
 
