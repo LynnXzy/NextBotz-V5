@@ -55,8 +55,7 @@ let handler = async (m, { conn, usedPrefix, __dirname, text, command }) => {
     '*––––––『 BOT INFO 』––––––*', 
 `🤖 ɴᴀᴍᴇ: ${_package.name}
 🧩 ᴠᴇʀsɪᴏɴ: ${_package.version}
-📚 ʟɪʙʀᴀʀʏ: ${_package.description}
-👩‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: LynnZ🍭
+👩‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: LynnZMod🍭
 
 ⏳ ᴜᴩᴛɪᴍᴇ: ${uptime}
 📈 ᴅᴀᴛᴀʙᴀsᴇ: ${totalreg}
@@ -81,7 +80,7 @@ let handler = async (m, { conn, usedPrefix, __dirname, text, command }) => {
 }
 handler.help = ['botinfo']
 handler.tags = ['info']
-handler.command = /^(botinfo)$/i
+handler.command = /^(botinfo|infobot)$/i
 
 export default handler
 
