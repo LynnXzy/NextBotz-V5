@@ -7,15 +7,15 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------- NOMOR
   let nowner = `${nomorown.split`@`[0]}@s.whatsapp.net`
   let teksnomor = `${htki} *OWNER* ${htka}
-✦ @${nomorown.split`@`[0]} ✦
-------- ${nameown} -------
+✦ Wa.me/60189830350 ✦
+------- OᴡɴᴇʀLʏɴɴMᴅ🍭 -------
 
 📮 *Note:*
-• Owner tidak menerima save contact
-• Owner berhak blockir tanpa alasan
-• Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT
-• No Telp`
+• 𝑶𝒘𝒏𝒆𝒓 𝑻𝒊𝒅𝒂𝒌 𝑴𝒆𝒏𝒆𝒓𝒊𝒎𝒂 𝑺𝒂𝒗𝒆 𝑲𝒐𝒏𝒕𝒂𝒌
+• 𝑶𝒘𝒏𝒆𝒓 𝑩𝒆𝒓𝒉𝒂𝒌 𝑴𝒆𝒎𝒃𝒍𝒐𝒌𝒊𝒓 𝑻𝒂𝒏𝒑𝒂 𝑨𝒍𝒂𝒔𝒂𝒏
+• 𝑩𝒆𝒓𝒃𝒊𝒄𝒂𝒓𝒂 𝑳𝒂𝒉 𝑺𝒐𝒑𝒂𝒏 & 𝑻𝒊𝒅𝒂𝒌 𝑺𝒑𝒂𝒎
+• 𝑯𝒂𝒏𝒚𝒂 𝑴𝒆𝒓𝒆𝒔𝒑𝒐𝒏 𝑩𝒆𝒓𝒌𝒂𝒊𝒕𝒂𝒏 𝑩𝒐𝒕 & 𝑺𝒆𝒘𝒂
+• 𝑵𝒐 𝑻𝒆𝒍𝒑𝒐𝒏,𝑽𝒊𝒓𝒕𝒆𝒙,𝑽𝒊𝒓𝒖𝒔,𝑯𝒂𝒍 𝑩𝒆𝒓𝒃𝒂𝒖 +18`
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
